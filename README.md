@@ -52,7 +52,7 @@ streamlit run streamlit_app.py
 ![Genre Distribution](visuals/genre_distribution.png)
 
 ### Content Release Trend
-![Release Trend](visuals/release trend.png)
+![Release Trend](visuals/releasetrend.png)
 
 ## 💡 Why This Project?
 
