@@ -17,7 +17,7 @@ netflix-data-explorer/
 │   ├── genre_distribution.png       # Genre distribution visualization
 │   └── release_trend.png            # Content release trend visualization
 │
-├── streamlit_app.py                 # Interactive web app (optional)
+├── streamlit_app.py                 # Interactive web app
 └── README.md                        # Project documentation
 ```
 
